@@ -1,1 +1,0 @@
-# LatihanModul1_Strukturdata
